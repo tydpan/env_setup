@@ -27,7 +27,7 @@ export TERM=screen=256color
  ```
 
 ### Theme
-from this [Github page](https://github.com/gpakosz/.tmux)
+from this [Github repo](https://github.com/gpakosz/.tmux)
  - Run the following:
  ```
 $ cd
