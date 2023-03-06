@@ -1,4 +1,5 @@
 colorscheme peaksea
+set mouse=a
 
 map <leader>q :q!<cr>
 map <leader><space> ?
