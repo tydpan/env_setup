@@ -23,7 +23,7 @@ export PATH=$HOME/software/tmux/bin:$PATH
 export LD_LIBRARY_PATH=$HOME/software/tmux/lib:$LD_LIBRARY_PATH
 export MANPATH=$HOME/software/tmux/share/man:$MANPATH
 # resolve issues for vim in tmux
-export TERM=screen=256color
+export TERM=screen-256color
  ```
 
 ### Theme
